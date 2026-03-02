@@ -155,6 +155,7 @@ Challenge your friends in MULTIPLAYER mode!
 * [integram](https://integram.org/) – Integrate Telegram into your workflow.
 * [MTProto](https://github.com/xelaj/mtproto) – Full native implementation of Telegram Client API on pure Go.
 * [gotd](https://github.com/gotd/td) – Telegram client, in pure Go. (MTProto API)
+* [golangFamily](https://github.com/xiaobaiTech/golangFamily) – A comprehensive collection of Golang learning resources, interview questions, and best practices.
 
 #### Java
 * [java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api) - Telegram Bot API for Java.
